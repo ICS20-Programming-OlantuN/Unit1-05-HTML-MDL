@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Unit1-05-HTML-MDL
+=======
+
+>>>>>>> origin/main
 =======
 
 >>>>>>> origin/main
@@ -10,7 +14,11 @@
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 This site can be found at: [https://ICS20-Programming-OlantuN.github.io/Unit1-05-HTML-MDL](https://ICS20-Programming-OlantuN.github.io/Unit1-05-HTML-MDL)
+=======
+This site can be found at: [https://github.com/ICS20-Programming-OlantuN/Unit1-05-HTML-MDL](https://github.com/ICS20-Programming-OlantuN/Unit1-05-HTML-MDL)
+>>>>>>> origin/main
 =======
 This site can be found at: [https://github.com/ICS20-Programming-OlantuN/Unit1-05-HTML-MDL](https://github.com/ICS20-Programming-OlantuN/Unit1-05-HTML-MDL)
 >>>>>>> origin/main
